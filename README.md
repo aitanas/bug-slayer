@@ -19,6 +19,10 @@ The Bug Slayer is role-playing game built using JavaScript and Node.js. In the g
 
 ## Setup/Installation Requirements
 
+#### This application may be viewed at the corresponding [GitHub Pages site](https://aitanas.github.io/bug-slayer/).
+
+Alternatively, you may run this application on your local machine with the below instructions.
+
 Clone this repository by pasting the following command into your terminal:
 ```
 git clone https://github.com/aitanas/currency-exchanger.git
@@ -31,7 +35,12 @@ git clone https://github.com/aitanas/currency-exchanger.git
 
 ## Known Bugs
 
-* No known bugd at this time.
+* During battle, if the battle log in the sidebar gets too long it will extend the div container.
+![Image of sidebar bug](https://cdn.discordapp.com/attachments/718269322786635776/1048008124373672066/image.png)
+
+* When entering the last stage of the game, the story text is not displayed.
+
+* When approaching the programming codex, the CSS animation causes the player to overshoot slightly.
 
 ## Additional Thanks
 
