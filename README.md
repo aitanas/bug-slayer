@@ -1,13 +1,7 @@
 # THE BUG SLAYER
 
 #### An epic quest to slay (programming) bugs
-
-#### By Alex Johnson
-#### Brian Noh
-#### Aitana Shough
-#### Anton Chumachenko
-#### Daniel Yakovlev
-#### Vera Weikel
+##### by Aitana Shough, Alex Johnson, Anton Chumachenko, Brian Noh, Daniel Yakovlev, and Vera Weikel
 
 ## Technologies Used
 
@@ -17,37 +11,34 @@
 * Node.js
 * bootstrap
 * Webpack
-* [Tiled](https://www.mapeditor.org/) Map Editor
-
+* [Tiled Map Editor](https://www.mapeditor.org/)
 
 ## Description
-* There's an overworld and a battle system!
 
+The Bug Slayer is role-playing game built using JavaScript and Node.js. In the game, you are an adventurer in the Ancient Woods looking for the mythical Programming Codex to expand your coding knowledge. 
 
 ## Setup/Installation Requirements
 
-* Clone this repo & navigate to the root directory
-* open a command line prompt
-* install all packages with $npm install
-* build the project using $npm run build
-* start a live server with $npm run start
-
+Clone this repository by pasting the following command into your terminal:
+```
+git clone https://github.com/aitanas/currency-exchanger.git
+```
+**Directions after cloning are as follows:**
+1. Open the **bug-slayer** directory within your command line.
+2. Install all Node packages and dependencies with the command `npm install`.
+3. Package and open the project in your browser using `npm run start`.
+4. Enjoy!
 
 ## Known Bugs
 
-* If you find additional bugs not listed here, please email me at alex.johnson293@gmail.com with the subject **[_Repo Name_] Bug** and include:
-  * BUG: _A brief description of the bug_
-  * FIX: _Suggestion for solution (if you have one!)_
-  * If you'd like to be credited, please also include your **_github user profile link_**
+* No known bugd at this time.
 
 ## Additional Thanks
 
+We utilized many free assets from [itch.io](https://itch.io/game-assets/free/genre-rpg)'s expansive library. 
 * Anicent Ruins overworld sprite pack from [Rafael Matos](https://rafaelmatos.itch.io/epic-rpg-world-pack-free-demo-ancient-ruins)
 * Book/codex sprite from [Liz Molnar](https://raventale.itch.io/daily-doodles-pixelart-asset-pack)
 * Dark Wizard enemy sprite from [Luiz Melos](https://luizmelo.itch.io/evil-wizard-2)
-
-## Future implementations
-
 
 ## License
 MIT License
